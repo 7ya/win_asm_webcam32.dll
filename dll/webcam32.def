@@ -1,0 +1,21 @@
+LIBRARY webcam32
+EXPORTS
+CreateVideoWindow
+StartVideo
+StopVideo
+PauseVideo
+dWebCam
+dFormat
+GetMicrophoneName
+GetWebCamName
+PhotoSave
+GetBuffer
+VWColorDialog
+SetVWColor
+GetVWInfo
+VWFullScreen
+VWRatio
+GetTime
+SetVWData
+GetVWData
+GetDeviceName

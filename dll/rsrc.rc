@@ -1,0 +1,26 @@
+1101 ICON MOVEABLE PURE LOADONCALL DISCARDABLE "test.ico"
+#define VERINF1 1
+VERINF1 VERSIONINFO
+FILEVERSION 3,0,0,0
+PRODUCTVERSION 3,0,0,0
+FILEOS 0x00000004
+FILETYPE 0x00000001
+BEGIN
+BLOCK "StringFileInfo"
+BEGIN
+BLOCK "040904B0"
+BEGIN
+VALUE "CompanyName", "7ya@protonmail.com\0"
+VALUE "FileVersion", "3.0.0.0\0"
+VALUE "InternalName", "webcam32.dll\0"
+VALUE "LegalCopyright", "7ya\0"
+VALUE "OriginalFilename", "webcam32.dll\0"
+VALUE "ProductName", "webcam32.dll\0"
+VALUE "ProductVersion", "3.0.0.0\0"
+END
+END
+BLOCK "VarFileInfo"
+BEGIN
+VALUE "Translation", 0x0419, 0x04B0
+END
+END
